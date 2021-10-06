@@ -59,4 +59,4 @@ x2 = 2;
 E = 0.00000001;
 secant(x1, x2, E);
 
-# This code is contributed by mits
+# This code is contributed by mits && Aaron Davidge
